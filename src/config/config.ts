@@ -25,7 +25,7 @@ export const defaultConfig: AppConfig = {
     bitsPerSample: 16,
   },
   ari: {
-    host: "192.168.68.142",
+    host: "192.168.1.54",
     port: 8088,
     username: "admin",
     password: "admin",

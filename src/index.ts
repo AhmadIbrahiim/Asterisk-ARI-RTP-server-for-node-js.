@@ -76,7 +76,7 @@ export class RtpApplication {
 
     this.ariServer.on("StasisEnd", async (event) => {
       console.log(`Channel left Stasis: ${event.channel.id}`)
-      await this.cleanup()
+      // await this.cleanup()
     })
 
     this.ariServer.on("BridgeDestroyed", () => {
