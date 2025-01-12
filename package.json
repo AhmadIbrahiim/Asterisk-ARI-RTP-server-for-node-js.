@@ -21,7 +21,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@ipcom/asterisk-ari": "^0.10.0",
+    "@ipcom/asterisk-ari": "^0.0.144",
     "axios": "^1.6.2"
   },
   "devDependencies": {
